@@ -6,8 +6,6 @@
 
 Professional transparent telemetry overlays for iRacing. Monitor your car's performance in real-time with customizable, always-on-top displays.
 
-![Edge Overlays](https://via.placeholder.com/800x400/1a1a1a/3B82F6?text=Edge+Overlays+-+iRacing+Telemetry)
-
 ## ✨ Features
 
 ### Multiple Overlay Types
@@ -47,7 +45,7 @@ Professional transparent telemetry overlays for iRacing. Monitor your car's perf
 
 ## 🚀 Installation
 
-1. Download `Edge-Overlays-Setup-{version}.exe` from [releases](https://github.com/robedge/edge-overlays-releases/releases/latest)
+1. Download `Edge.Overlays.Setup.{version}.exe` from [releases](https://github.com/robedge/edge-overlays-releases/releases/latest)
 2. Run the installer
 3. Follow the installation wizard
 4. Launch **Edge Overlays** from Start Menu or desktop shortcut
