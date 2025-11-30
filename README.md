@@ -6,6 +6,49 @@
 
 Professional transparent telemetry overlays for iRacing. Monitor your car's performance in real-time with customizable, always-on-top displays.
 
+![Edge Overlays](https://via.placeholder.com/800x400/1a1a1a/3B82F6?text=Edge+Overlays+-+iRacing+Telemetry)
+
+## 🖼️ Overlay Previews
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📊 Telemetry Overlay</h3>
+      <img src="demo_images/telemetry.png" alt="Telemetry Overlay" width="100%"/>
+      <p>Real-time speed, RPM, gear, and fuel monitoring with gradient bars</p>
+    </td>
+    <td width="50%">
+      <h3>🎮 Input Overlay</h3>
+      <img src="demo_images/inputs.png" alt="Input Overlay" width="100%"/>
+      <p>Visualize steering, throttle, brake, and clutch inputs</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⏱️ Relative Overlay</h3>
+      <img src="demo_images/relatives.png" alt="Relative Overlay" width="100%"/>
+      <p>Monitor gap times to cars ahead and behind with driver info</p>
+    </td>
+    <td width="50%">
+      <h3>⛽ Fuel Calculator</h3>
+      <img src="demo_images/fuel.png" alt="Fuel Calculator" width="100%"/>
+      <p>Fuel consumption, laps remaining, and pit strategy calculator</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌤️ Weather Overlay</h3>
+      <img src="demo_images/weather.png" alt="Weather Overlay" width="100%"/>
+      <p>Track conditions, temperature, wind, and precipitation data</p>
+    </td>
+    <td width="50%">
+      <h3>⚠️ Incidents Overlay</h3>
+      <img src="demo_images/incidents.png" alt="Incidents Overlay" width="100%"/>
+      <p>Track your incident count and team incidents in team races</p>
+    </td>
+  </tr>
+</table>
+
 ## ✨ Features
 
 ### Multiple Overlay Types
@@ -218,4 +261,3 @@ See [Releases](https://github.com/robedge/edge-overlays-releases/releases) for d
 **Built with ❤️ for the iRacing community**
 
 [Download Latest Release](https://github.com/robedge/edge-overlays-releases/releases/latest) | [View All Releases](https://github.com/robedge/edge-overlays-releases/releases) | [Report Issue](https://github.com/robedge/edge-overlays-releases/issues/new)
-
