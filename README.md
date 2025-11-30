@@ -6,8 +6,6 @@
 
 Professional transparent telemetry overlays for iRacing. Monitor your car's performance in real-time with customizable, always-on-top displays.
 
-![Edge Overlays](https://via.placeholder.com/800x400/1a1a1a/3B82F6?text=Edge+Overlays+-+iRacing+Telemetry)
-
 ## 🖼️ Overlay Previews
 
 <table>
