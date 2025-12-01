@@ -45,6 +45,27 @@ Professional transparent telemetry overlays for iRacing. Monitor your car's perf
       <p>Track your incident count and team incidents in team races</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>📡 Radar Overlay</h3>
+      <img src="demo_images/radar.png" alt="Radar Overlay" width="100%"/>
+      <p>Track nearby cars with position-aware radar display</p>
+    </td>
+    <td width="50%">
+      <h3>🏆 Leaderboard Overlay</h3>
+      <img src="demo_images/leaderboard.png" alt="Leaderboard Overlay" width="100%"/>
+      <p>Live standings, positions, and gap times for all drivers</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🗺️ Track Map Overlay</h3>
+      <img src="demo_images/track-map.png" alt="Track Map Overlay" width="100%"/>
+      <p>Visual track map with car positions and track layout</p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
 </table>
 
 ## ✨ Features
@@ -57,6 +78,8 @@ Professional transparent telemetry overlays for iRacing. Monitor your car's perf
 - **⏱️ Relative Overlay** - Monitor gap times to cars ahead and behind
 - **⛽ Fuel Overlay** - Fuel consumption, laps remaining, and pit strategy
 - **🌤️ Weather Overlay** - Track conditions, temperature, and forecast
+- **🏆 Leaderboard Overlay** - Live standings and gap times for all drivers
+- **🗺️ Track Map Overlay** - Visual track layout with live car positions
 
 ### Core Features
 
