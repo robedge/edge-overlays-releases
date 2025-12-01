@@ -1,7 +1,6 @@
 # Edge Overlays
 
 [![Release](https://img.shields.io/github/v/release/robedge/edge-overlays-releases)](https://github.com/robedge/edge-overlays-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/robedge/edge-overlays-releases/total)](https://github.com/robedge/edge-overlays-releases/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/robedge/edge-overlays-releases/blob/main/LICENSE)
 
 Professional transparent telemetry overlays for iRacing. Monitor your car's performance in real-time with customizable, always-on-top displays.
