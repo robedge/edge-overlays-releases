@@ -91,6 +91,23 @@ Professional transparent telemetry overlays for iRacing. Monitor your car's perf
 - 🔄 **Auto-Updates** - Built-in update checker with one-click installation
 - 🪶 **Performance** - Minimal CPU/GPU impact during races
 - 🎮 **System Tray** - Minimize to tray, quick toggle overlays
+- 🖥️ **Multi-Monitor Support** - Position overlays on any monitor with saved positions
+- 📋 **Taskbar Integration** - Optionally show overlay windows in the taskbar
+
+### Browser & Streaming
+
+- 🌐 **Browser Access** - Access overlays from any web browser at `http://localhost:8855`
+- 📺 **OBS Integration** - Add overlays to your stream via browser source
+- 📱 **Remote Access** - Use a tablet or phone as an external dashboard
+- 🔗 **Available URLs**:
+  - `/telemetry` - Speed, RPM, gear, fuel
+  - `/fuel` - Fuel strategy and calculations
+  - `/relative` - Gap times to nearby drivers
+  - `/input` - Steering, throttle, brake visualization
+  - `/weather` - Track and air conditions
+  - `/incidents` - Incident count tracking
+  - `/leaderboard` - Race positions
+  - `/trackmap` - Track position visualization
 
 ## 📥 Download
 
@@ -145,6 +162,11 @@ The control panel provides:
   - 🔒 **Overlay Lock** - Toggle click-through mode
   - 📏 **Units** - Choose metric or imperial measurements
   - 🔄 **Updates** - Check for new versions
+  - 📋 **Show in Taskbar** - Display overlay windows in the system taskbar
+  - 🌐 **Browser Access** - Enable HTTP server for browser/OBS access
+  - 🔗 **Port** - Configurable port (default: 8855)
+  - 📱 **Remote Access** - Allow connections from other devices on your network
+  - 🔄 **Reset Positions** - Reset all overlay positions to defaults
 
 ### System Tray
 
@@ -240,6 +262,12 @@ A: Currently overlays use a fixed professional design. Customization may be adde
 **Q: Does this support multi-monitor setups?**
 A: Yes, overlays can be positioned on any monitor. Positions are saved per-monitor.
 
+**Q: Can I use this with OBS for streaming?**
+A: Yes! Enable Browser Access in settings, then add a browser source in OBS pointing to `http://localhost:8855/telemetry` (or any other overlay URL).
+
+**Q: Can I view overlays on a tablet or phone?**
+A: Yes, enable Remote Access in settings, then access `http://<your-pc-ip>:8855/` from any device on your network.
+
 ## 📜 License
 
 MIT License - see [LICENSE](LICENSE) file for details
@@ -262,13 +290,17 @@ When reporting issues, please include:
 
 See [Releases](https://github.com/robedge/edge-overlays-releases/releases) for detailed version history.
 
-### Latest Release - v0.4.0
+### Latest Release - v0.8.4
 
-- Rebranded to Edge Overlays
-- Added "Check for Updates" button with version display
-- Improved update notification system
-- Enhanced system tray integration
-- Bug fixes and performance improvements
+- Browser access for overlays at `http://localhost:8855`
+- Stream overlays to OBS via browser source
+- Remote network access for tablets and phones
+- Overlay windows display names in taskbar
+- Track Map overlay with dynamic track path generation
+- Leaderboard overlay with live standings
+- Multi-monitor positioning improvements
+- Reset positions button in settings
+- Many bug fixes and performance improvements
 
 ## 🙏 Acknowledgments
 
