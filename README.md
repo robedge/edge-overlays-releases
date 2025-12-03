@@ -5,6 +5,9 @@
 
 Professional transparent telemetry overlays for iRacing. Monitor your car's performance in real-time with customizable, always-on-top displays.
 
+## Discord
+[Discord](https://discord.gg/grUK2yj7Dw)
+
 ## 🖼️ Overlay Previews
 
 <table>
