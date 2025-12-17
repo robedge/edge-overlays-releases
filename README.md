@@ -364,7 +364,14 @@ When reporting issues, please include:
 
 See [Releases](https://github.com/robedge/edge-overlays-releases/releases) for detailed version history.
 
-### Latest Release - v0.13.0
+### Latest Release - v0.13.1
+
+- **DigiFlag LED Display** - New 8x8 LED matrix flag display inspired by iFLAG hardware
+- LED patterns for blue, yellow, black, meatball, furled, and debris flags
+- Blinking animations for yellow and black flags
+- Realistic LED glow effects
+
+### v0.13.0
 
 - **SteamVR Support** - Native VR overlays with world-space positioning
 - **VR Config Mode** - F9 to position overlays with WASD/QE/RF controls
