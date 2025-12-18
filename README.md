@@ -93,6 +93,8 @@ Professional transparent telemetry overlays for iRacing. Monitor your car's perf
 
 Display overlays directly in your VR headset using the native VR Companion app:
 
+[![VR Demo Video](https://img.shields.io/badge/▶️_Watch_VR_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1PCuUmsdu-GbD_6hza0KmzuUTusEBM0AK/view?usp=sharing)
+
 - **World-Space Overlays** - Fixed position panels in your cockpit view
 - **8 VR Overlay Types** - Telemetry, Input, Relative, Fuel, Weather, Leaderboard, Incidents, Overtake
 - **VR Positioning Mode** - F9 to toggle, WASD/QE to move, RF to resize, Tab to select
