@@ -366,7 +366,18 @@ When reporting issues, please include:
 
 See [Releases](https://github.com/robedge/edge-overlays-releases/releases) for detailed version history.
 
-### Latest Release - v0.13.1
+### Latest Release - v0.13.3
+
+- **League Config Editor** - Visual editor for custom class assignments in league races
+  - Create custom tiers (PRO, AM, Rookie) with colors and relative speed
+  - Default class mapping - unassigned drivers fall back to class defaults
+  - Drag-and-drop driver assignment by car number
+- **Previous Stint Laps Column (PREV)** - Track laps completed in each driver's previous stint before their last pit stop
+- **Last Pitted Lap Column (PITTED)** - See the exact lap when each driver made their pit stop
+- New columns available in both desktop and VR leaderboard overlays
+- All columns enabled by default and fully customizable
+
+### v0.13.1
 
 - **DigiFlag LED Display** - New 8x8 LED matrix flag display inspired by iFLAG hardware
 - LED patterns for blue, yellow, black, meatball, furled, and debris flags
